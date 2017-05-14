@@ -13,7 +13,7 @@ import java.util.logging.Logger;
  */
 /**
  *
- * @author Johnny 28
+ * @author Kushal Mukherjee
  */
 public class ThreadHandlerGBN {
 

@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Johnny
+ * @author Kushal Mukherjee
  */
 public class ClientSAW {
 

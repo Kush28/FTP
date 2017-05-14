@@ -8,7 +8,7 @@ import java.net.*;
 
 /**
  *
- * @author Johnny
+ * @author Kushal Mukherjee
  */
 public class Server {
 

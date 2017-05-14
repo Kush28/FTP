@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Johnny 28
+ * @author Kushal Mukherjee
  */
 public class SharedGBN {
     public volatile int sf=0;

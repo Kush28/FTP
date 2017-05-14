@@ -10,7 +10,7 @@ import javax.sound.midi.Receiver;
 
 /**
  *
- * @author Johnny 28
+ * @author Kushal Mukherjee
  */
 public class ServerGBN {
 

@@ -10,7 +10,7 @@ import java.net.*;
 
 /**
  *
- * @author Johnny 28
+ * @author Kushal Mukherjee
  */
 public class temp1 {
     public static void main(String[] args) throws SocketException, IOException {
